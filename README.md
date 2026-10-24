@@ -49,6 +49,16 @@ The database relies on a structured relational design consisting of four core ta
   * **Self-JOIN YoY Analysis**: Calculates technology cost reductions between 2021 and 2025.
 
 ---
+## 📊 Power BI Dashboard
+
+### 1. Market & Economic Overview
+![Economic Overview](page1.png.jpg)
+
+### 2. Technical Performance & Trade-offs
+![Technical Analysis](page2.jpg)
+
+### 3. Cost-Efficiency & Technology Comparison
+![Technology Comparison](page3.jpg)
 
 ## 📂 Repository Structure
 
@@ -59,4 +69,12 @@ Energy-Storage-Intelligence/
 ├── SQL-INSERT_DATA.sql
 ├── SQLQUERIES.sql
 ├── SQL-VIEWS-INDEXES-STORED_PROCEDURES.sql
+├── Energy_Storage_Intelligence.pbix
+├── page1.png.jpg
+├── page2.jpg
+├── page3.jpg
 └── README.md
+
+
+
+
